@@ -5,7 +5,7 @@
 **
 
 _Steps to follow : 
-  STEP 1 :   First we need to install and import all the necessary libraries such as numpy, mediapipe and opencv. Then starting with capturing video from webcam and setting up                  mediapipe instance
+  STEP 1 :   First we need to install and import all the necessary libraries such as numpy, mediapipe and opencv. Then starting with capturing video from webcam and setting up                  mediapipe instance.
   STEP 2  :   Extracting the coordinates and joining them. Then it will find the angle between three defined coordinates.
   STEP 3  :   At last we've applied the logic of curls counting, thereby by diplaying the counts on the screen.
 
